@@ -1,0 +1,288 @@
+{
+  "module1": {
+    "option1": [
+      "¿Dónde vives actualmente? Por favor, proporciona tu país y ciudad.",
+      "¿Cuántos años tienes?",
+      "¿Cuál es tu nivel de educación y en qué campo?",
+      "¿En qué empresa trabajas? (Si es varios, por favor indica la que más ingresos te genera)",
+      "¿A qué se dedica la empresa donde trabajas? Por favor indica breve explicación y el sector.",
+      "¿Cuál es tu salario en esta empresa, y cuánto consigues ahorrar mensualmente de este salario?",
+      "¿Cuántas horas dedicas semanalmente a esta empresa? Por favor, proporciona un total aproximado de horas, incluyendo tanto las horas de trabajo físico como el tiempo que dedicas a pensar en tu trabajo.",
+      "¿Cuánto tiempo llevas en esta empresa?",
+      "¿Qué porcentaje ha subido tu salario anualmente, o qué porcentaje esperas si no llevas más de un año?",
+      "¿Cuánto factura aproximadamente al mes la empresa donde trabajas y qué porcentaje de esta facturación recae directa o indirectamente sobre ti?",
+      "¿Cuál es tu rol o posición en la empresa?",
+      "¿Cuáles son tus gastos personales mensuales aproximados? (alquiler, coche, etc…)"
+    ],
+    "option2": [
+      "¿Dónde vives actualmente? Por favor, proporciona tu país y ciudad.",
+      "¿Cuántos años tienes?",
+      "¿Cuál es tu nivel de educación y en qué campo?",
+      "¿Cuál es el nombre comercial de tu negocio? (Si tienes varios por favor indica el que mayor ingreso te genera)",
+      "Describe brevemente a que se dedica tu negocio, y indica en qué sector o industria opera tu negocio.",
+      "¿Cuál es tu salario personal neto anualmente en tu negocio propio?",
+      "¿Cuánto factura anualmente tu negocio? Además, ¿cuál es tu ganancia neta aproximada de estas facturacion?",
+      "¿Cuánto tiempo llevas con este emprendimiento?",
+      "¿Qué porcentaje de crecimiento ha tenido tu negocio anualmente, o cuánto esperas si no ha pasado más de un año?",
+      "¿Cuál es tu papel principal en el negocio? (CEO/COO/CFO…si son varios indica cuáles)",
+      "¿Cuantas horas dedicas a tu negocio semanalmente?",
+      "¿Cuántos empleados tiene tu negocio?",
+      "¿Cuáles son tus gastos anuales aproximados para tu negocio?"
+    ]
+  },
+  "module2": {
+    "option1": [
+      "Si pudieras emprender en cualquier área o industria basándote en tus habilidades y pasiones actuales, ¿cuál sería y por qué? (Describe brevemente)",
+      "Imagina que decides renunciar a tu trabajo actual para seguir una idea de negocio. ¿Qué sería lo que más te asustaría de dar ese paso? (Describe brevemente)",
+      "¿Qué habilidades o conocimientos crees que te diferencian en tu trabajo actual y cómo podrías aplicarlos en un emprendimiento propio? (Describe brevemente)",
+      "¿Qué recursos crees que necesitas para emprender? (Describe brevemente)",
+      "Piensa en un día laboral ideal como emprendedor. ¿Cómo sería? ¿Qué estarías haciendo? (Describe brevemente)",
+      "¿Qué principios no negociable llevarías de tu trabajo actual a tu propio negocio? (Describe brevemente)",
+      "Si tu jefe actual se convirtiera en tu primer cliente o inversor, ¿cómo le presentarías tu idea o proyecto de negocio? (describe brevemente)",
+      "¿Sientes que tu trabajo actual te está preparando para emprender en el futuro? Si la respuesta es no, ¿qué te gustaría aprender o experimentar para sentirte más preparado? (Descríbe brevemente)"
+    ],
+    "option2": [
+      "Si tuvieses que describir la misión y visión de tu empresa en una sola frase, ¿cuál sería?",
+      "¿Qué problema específico soluciona tu producto o servicio en el mercado?",
+      "Si pudieras hacer un cambio en tu negocio hoy, ¿cuál sería y por qué lo consideras necesario?",
+      "¿Cuál ha sido el desafío más significativo que has enfrentado como emprendedor y cómo lo superaste?",
+      "Imagina que tu negocio se triplica en tamaño mañana. ¿Qué puesto o rol consideras que sería esencial incorporar o fortalecer primero?",
+      "¿Estás familiarizado con tus competidores directos en el mercado? Si es así, ¿hay algo que admires o quisieras incorporar de alguno de ellos en tu negocio?",
+      "En una situación hipotética donde tuvieses que conservar solo a 3 personas en tu empresa, ¿quiénes serían y por qué las elegirías?",
+      "Si tu empresa cerrara sus puertas mañana y tuvieras que mirar atrás, ¿cuál crees que sería la principal razón de su fracaso?"
+    ]
+  },
+  "module3": {
+    "option1": [
+      "¿Dónde resides fiscalmente?",
+      "¿Cuál es el mayor monto que has pagado en impuestos en un año fiscal?",
+      "¿Gestionas tus impuestos por tu cuenta o contratas una asesoría externa para ello? (si es externa cuanto pagas mensualmente a la asesoría)",
+      "Si alguna vez has tenido ingresos adicionales a tu salario (freelance, inversiones, etc.), ¿Qué cantidad fueron estos ingresos?  ¿cómo gestionaste la fiscalidad de estos?",
+      "¿Has considerado o realizado alguna vez optimización fiscal, como cambiar tu residencia fiscal o invertir en vehículos con ventajas fiscales?",
+      "¿Qué consideras que es el mayor desafío fiscal al que te enfrentas como individuo?",
+      "¿Tienes algún plan de pensiones o inversión que te proporcione beneficios fiscales?",
+      "En tu opinión, ¿consideras que estás bien informado acerca de tus responsabilidades y derechos fiscales?",
+      "En una escala del 1 al 10, ¿qué importancia le das al conocimiento de la fiscalidad y a la elusión fiscal en esta mentoría?"
+    ],
+    "option2": [
+      "¿Dónde resides fiscalmente?",
+      "¿Cuál es el mayor monto que has pagado en impuestos en un año fiscal?",
+      "¿Gestionas tus impuestos internamente o contratas una asesoría externa? (si es externa cuanto pagas mensualmente a la asesoría)",
+      "¿Has realizado alguna vez planificación de elusión fiscal?",
+      "¿Qué tipo de estructura legal tiene tu empresa (ej. Sociedad Anónima, Sociedad Limitada, Autónomo, etc.)?",
+      "¿Has considerado o realizado alguna vez una optimización fiscal internacional, como trasladar parte de tus operaciones o activos a otro país?",
+      "¿Cuál consideras que es el mayor desafío fiscal al que se enfrenta tu empresa actualmente?",
+      "En tu opinión, ¿consideras que estás bien informado acerca de tus responsabilidades y derechos fiscales?",
+      "En una escala del 1 al 10, ¿qué importancia le das al conocimiento de la fiscalidad y a la elusión fiscal en esta mentoría?"
+    ]
+  },
+  "module4": {
+    "option1": [
+      "*Historial Emprendedor*: ¿Has emprendido alguna vez? Si la respuesta es sí, ¿cuántas veces? Si es no, responde 'no'.",
+      "*Estado del Emprendimiento*: Si has emprendido, ¿cuál fue el resultado? (Opciones: Aún en funcionamiento, Tuve que cerrar, Vendí el negocio, etc.)",
+      "*Idea No Ejecutada*: ¿Has tenido alguna vez una idea de negocio que no llevaste a cabo? Si es así, ¿puedes describir brevemente cuál era?",
+      "*Motivos*: Si tuviste la idea pero decidiste no ejecutarla, ¿por qué tomaste esa decisión?",
+      "*Convencimiento a Inversores*: ¿Alguna vez has convencido a algún inversor (puede ser quien sea) para invertir en ti? Responde con 'sí' o 'no'.",
+      "*Plan de Negocio*: ¿Has elaborado alguna vez un plan de negocio (business plan) PROFESIONAL y lo has presentado a incubadoras, fondos de inversión? Responde con 'sí' o 'no'.",
+      "*Financiamiento*: Si presentaste tu plan de negocio a fondos, ¿obtuviste el financiamiento que buscabas? Si no lo presentaste, responde 'nunca presenté'.",
+      "*Conocimientos Actuales*: Dada la situación mundial actual, ¿consideras que tienes los conocimientos suficientes para preparar un buen plan de negocio y que inversores externos te otorguen entre $100k a 1$M ?"
+    ],
+    "option2": [
+      "*Herramientas y Recursos*: ¿Cuáles son las tres herramientas o softwares principales que utilizas diariamente en la gestión de tu negocio? ¿Por qué los eliges?",
+      "*Equipos*: ¿De qué manera estructuras tus equipos de trabajo? (Por ejemplo: ¿Por proyectos? ¿Por departamentos? ¿De manera general?).",
+      "*KPIs y Métricas*: ¿Cuáles son las tres métricas esenciales que revisas con regularidad en tu negocio? Si no utilizas métricas concretas y confías más en una visión general, describe brevemente cómo monitoreas el progreso.",
+      "Formación: ¿Realizas sesiones de formación con tu equipo? En caso afirmativo, ¿cómo las estructuras? ¿Son formaciones generales para todo el personal o las organizas por áreas específicas como ventas, producto, etc.?).",
+      "*Externalización*: ¿Hay áreas o tareas específicas de tu negocio que has considerado o ya has decidido externalizar?",
+      "*Operaciones*: ¿Cuentas con un COO (Director de Operaciones) en tu empresa? Si es así, en una escala del 1 al 10, ¿qué calificación le darías en función de su desempeño?",
+      "*Marketing*: ¿Tienes un CMO (Director de Marketing) en tu empresa? Si es así, en una escala del 1 al 10, ¿qué calificación le darías por su rendimiento?",
+      "*Producto*: ¿Dispones de un CPO (Jefe de Proyectos o Productos) en tu empresa? Si es así, en una escala del 1 al 10, ¿qué calificación le darías basado en su desempeño?",
+      "*Ventas*: ¿Tienes un CCO (Jefe de Ventas) en tu organización? Si es así, en una escala del 1 al 10, ¿qué puntuación le otorgarías según su actuación?",
+      "¿Algún miembro de los cuatro roles mencionados anteriormente tiene responsabilidades adicionales en tu empresa? Si es así, especifica cuál y describe brevemente las razones.",
+      "*Networking*: En una escala del 1 al 10, ¿qué importancia le das a la construcción de redes profesionales para el crecimiento de tu negocio? ¿Tienes alguien en tu equipo específicamente dedicado a esta tarea?"
+    ]
+  },
+  "module5": {
+    "option1": [
+      "*Naturaleza de Inversiones*: ¿Realizas inversiones como parte de tu empresa o como persona física? (Respuesta: Sí/No)",
+      "*Valor Total de Inversiones*: ¿Cuál es el valor total estimado de tus inversiones en $ (incluyendo propiedades, criptomonedas, acciones, etc.)?",
+      "*Distribución de Inversiones*: Distribuye en porcentajes cómo están repartidas tus inversiones. (Ejemplo: criptomonedas 20%, acciones 25%, etc.)",
+      "*Gestión de Inversiones*: Si tienes una empresa, ¿existe un departamento o individuo encargado de gestionar estas inversiones? Si no tienes empresa, ¿gestionas tú mismo(a) las inversiones o cuentas con algún asesor o entidad para ello?",
+      "*Objetivos de Inversión*: ¿Cuál es tu principal objetivo al invertir? (Ejemplo: seguridad financiera, crecimiento a largo plazo, ingresos pasivos, diversificación, etc.) ",
+      "*Experiencia en Inversiones*: En una escala del 1 al 10, ¿cuán confiado te sientes en tu conocimiento y habilidades de inversión?"
+    ],
+    "option2": [
+      "*Naturaleza de Inversiones*: ¿Realizas inversiones como parte de tu empresa o como persona física? (Respuesta: Sí/No)",
+      "*Valor Total de Inversiones*: ¿Cuál es el valor total estimado de tus inversiones en $ (incluyendo propiedades, criptomonedas, acciones, etc.)?",
+      "*Distribución de Inversiones*: Distribuye en porcentajes cómo están repartidas tus inversiones. (Ejemplo: criptomonedas 20%, acciones 25%, etc.)",
+      "*Gestión de Inversiones*: Si tienes una empresa, ¿existe un departamento o individuo encargado de gestionar estas inversiones? Si no tienes empresa, ¿gestionas tú mismo(a) las inversiones o cuentas con algún asesor o entidad para ello?",
+      "*Objetivos de Inversión*: ¿Cuál es tu principal objetivo al invertir? (Ejemplo: seguridad financiera, crecimiento a largo plazo, ingresos pasivos, diversificación, etc.) ",
+      "*Experiencia en Inversiones*: En una escala del 1 al 10, ¿cuán confiado te sientes en tu conocimiento y habilidades de inversión?"
+    ]
+  },
+  "module6": {
+    "option1": [
+      "*Naturaleza de la Deuda*: ¿Tienes deudas personales, de tu empresa o ambas?",
+      "*Monto Total de Deuda*: ¿Cuál es el monto total aproximado de tu deuda en $?",
+      "*Tipo de Deuda*: Distribuye en porcentajes los tipos de deuda que tienes. (Ejemplo: hipoteca 50%, préstamos personales 25%, tarjetas de crédito 15%, préstamos empresariales 10%, etc.)",
+      "*Gestión de la Deuda*: ¿Cuentas con un plan estructurado para la amortización de tus deudas? Si es así, describe brevemente cómo es.",
+      "*Interés Promedio*: Si lo sabes, ¿cuál es el interés promedio que pagas sobre tus deudas?",
+      "*Deudas en el Pasado*: ¿Has tenido deudas en el pasado que hayas liquidado? Si es así, ¿cómo lograste hacerlo?",
+      "*Apalancamiento*: Si eres empresario, ¿ves la deuda como una herramienta de apalancamiento para crecer tu negocio? Explica brevemente."
+    ],
+    "option2": [
+      "*Naturaleza de la Deuda*: ¿Tienes deudas personales, de tu empresa o ambas?",
+      "*Monto Total de Deuda*: ¿Cuál es el monto total aproximado de tu deuda en $?",
+      "*Tipo de Deuda*: Distribuye en porcentajes los tipos de deuda que tienes. (Ejemplo: hipoteca 50%, préstamos personales 25%, tarjetas de crédito 15%, préstamos empresariales 10%, etc.)",
+      "*Gestión de la Deuda*: ¿Cuentas con un plan estructurado para la amortización de tus deudas? Si es así, describe brevemente cómo es.",
+      "*Interés Promedio*: Si lo sabes, ¿cuál es el interés promedio que pagas sobre tus deudas?",
+      "*Deudas en el Pasado*: ¿Has tenido deudas en el pasado que hayas liquidado? Si es así, ¿cómo lograste hacerlo?",
+      "*Apalancamiento*: Si eres empresario, ¿ves la deuda como una herramienta de apalancamiento para crecer tu negocio? Explica brevemente."
+    ]
+  },
+  "module7": {
+    "option1": [
+      "*Habilidades Recientes*: ¿Qué nuevas habilidades o conocimientos has adquirido en el último año?",
+      "*Métodos de Aprendizaje*: ¿Cómo prefieres aprender? (Ejemplo: cursos en línea, libros, podcasts, seminarios, mentorías, etc.)",
+      "*Inversiones en Educación*: ¿Cuánto inviertes, en dólares y en tiempo, aproximadamente al año en tu desarrollo y formación personal o profesional? Ejemplo: (30 min al día, $20,000 al año)",
+      "*Educación Actual*: ¿Qué formación académica tienes? ¿Cuentas con carreras, másteres, diplomados o eres autodidacta?",
+      "*Importancia de la Formación Titulada*: ¿Consideras que tener una formación titulada es importante para emprender? ¿Enviarías a tu hijo a cursar una carrera universitaria? (Responde sí o no)",
+      "*Mentoría*: ¿Has tenido algún mentor o has sido mentor de alguien? Si es así, describe brevemente tu experiencia.",
+      "*Desafíos de Aprendizaje*: ¿Existe algún tema o habilidad que hayas intentado aprender pero que te resultó especialmente desafiante?",
+      "*¿Qué Quieres Aprender?*: Nombra solo una cualidad o habilidad que desees adquirir en los próximos 12 meses. Solo una."
+    ],
+    "option2": [
+      "*Habilidades Recientes*: ¿Qué nuevas habilidades o conocimientos has adquirido en el último año?",
+      "*Métodos de Aprendizaje*: ¿Cómo prefieres aprender? (Ejemplo: cursos en línea, libros, podcasts, seminarios, mentorías, etc.)",
+      "*Inversiones en Educación*: ¿Cuánto inviertes, en dólares y en tiempo, aproximadamente al año en tu desarrollo y formación personal o profesional? Ejemplo: (30 min al día, $20,000 al año)",
+      "*Educación Actual*: ¿Qué formación académica tienes? ¿Cuentas con carreras, másteres, diplomados o eres autodidacta?",
+      "*Importancia de la Formación Titulada*: ¿Consideras que tener una formación titulada es importante para emprender? ¿Enviarías a tu hijo a cursar una carrera universitaria? (Responde sí o no)",
+      "*Mentoría*: ¿Has tenido algún mentor o has sido mentor de alguien? Si es así, describe brevemente tu experiencia.",
+      "*Desafíos de Aprendizaje*: ¿Existe algún tema o habilidad que hayas intentado aprender pero que te resultó especialmente desafiante?",
+      "*¿Qué Quieres Aprender?*: Nombra solo una cualidad o habilidad que desees adquirir en los próximos 12 meses. Solo una."
+    ]
+  },
+  "module8": {
+    "option1": [
+      "¿Has considerado alguna vez abrir una empresa que cuente con una app en App Store o Google Play y que opere bajo un modelo de suscripción?",
+      "¿Estás familiarizado con los pasos necesarios para publicar una app en la App Store?",
+      "¿Conoces el concepto de \"Internet Tax\" que aplican App Store y Google Play? (Responde sí o no)",
+      "¿Has pensado alguna vez en fundar una empresa basada en modelos matemáticos? (Por ejemplo, empresas de prop trading, fondos de inversión, etc.)",
+      "¿Estás al tanto de los procedimientos requeridos para establecer este tipo de empresas?",
+      "¿Has considerado la idea de iniciar una empresa de SAAS (Software as a Service)?",
+      "¿Sabes qué se necesita para establecer una empresa de SAAS?",
+      "¿Has pensado en crear una empresa que tenga contratos con entidades gubernamentales?",
+      "¿Estás familiarizado con los trámites comunes para cerrar un acuerdo con el gobierno y las implicancias asociadas?",
+      "¿Has considerado abrir un negocio físico al público? (Ejemplo: restaurantes, discotecas, parques de atracciones, etc.)",
+      "Si la respuesta a la pregunta anterior fue \"sí\", describe brevemente cuál sería y cómo te diferenciarías.",
+      "¿Has pensado en abrir un negocio que ofrezca un servicio o producto dirigido específicamente a emprendedores digitales? (Por ejemplo, un almacén que suministre ropa a los dropshippers, una herramienta tecnológica para influencers, etc.)",
+      "Si la respuesta fue afirmativa, describe brevemente tu idea y cuánto capital estimas que necesitarías para ponerla en marcha."
+    ],
+    "option2": [
+      "¿Has considerado alguna vez abrir una empresa que cuente con una app en App Store o Google Play y que opere bajo un modelo de suscripción?",
+      "¿Estás familiarizado con los pasos necesarios para publicar una app en la App Store?",
+      "¿Conoces el concepto de \"Internet Tax\" que aplican App Store y Google Play? (Responde sí o no)",
+      "¿Has pensado alguna vez en fundar una empresa basada en modelos matemáticos? (Por ejemplo, empresas de prop trading, fondos de inversión, etc.)",
+      "¿Estás al tanto de los procedimientos requeridos para establecer este tipo de empresas?",
+      "¿Has considerado la idea de iniciar una empresa de SAAS (Software as a Service)?",
+      "¿Sabes qué se necesita para establecer una empresa de SAAS?",
+      "¿Has pensado en crear una empresa que tenga contratos con entidades gubernamentales?",
+      "¿Estás familiarizado con los trámites comunes para cerrar un acuerdo con el gobierno y las implicancias asociadas?",
+      "¿Has considerado abrir un negocio físico al público? (Ejemplo: restaurantes, discotecas, parques de atracciones, etc.)",
+      "Si la respuesta a la pregunta anterior fue \"sí\", describe brevemente cuál sería y cómo te diferenciarías.",
+      "¿Has pensado en abrir un negocio que ofrezca un servicio o producto dirigido específicamente a emprendedores digitales? (Por ejemplo, un almacén que suministre ropa a los dropshippers, una herramienta tecnológica para influencers, etc.)",
+      "Si la respuesta fue afirmativa, describe brevemente tu idea y cuánto capital estimas que necesitarías para ponerla en marcha."
+    ]
+  },
+  "module9": {
+    "option1": [
+      "**Máquina del Tiempo**: Si pudieras viajar al pasado al inicio de tu negocio, ¿qué consejo te darías a ti mismo?",
+      "**El Futuro**: Imagina que tu negocio es una noticia de primera plana en 2033. ¿Qué quisieras que dijera el titular?",
+      "**Legado**: Si tuvieras que escribir una oración que capture el legado que deseas dejar con tu empresa, ¿cuál sería?",
+      "**Innovación Futurista**: Describe un producto o servicio que te gustaría ofrecer en 2040, sin importar cuán avanzado o futurista parezca.",
+      "**Aliados Temporales**: Si pudieras traer a una figura histórica para que sea parte de tu equipo o consejo directivo, ¿quién sería y por qué?"
+    ],
+    "option2": [
+      "**Máquina del Tiempo**: Si pudieras viajar al pasado al inicio de tu negocio, ¿qué consejo te darías a ti mismo?",
+      "**El Futuro**: Imagina que tu negocio es una noticia de primera plana en 2033. ¿Qué quisieras que dijera el titular?",
+      "**Legado**: Si tuvieras que escribir una oración que capture el legado que deseas dejar con tu empresa, ¿cuál sería?",
+      "**Innovación Futurista**: Describe un producto o servicio que te gustaría ofrecer en 2040, sin importar cuán avanzado o futurista parezca.",
+      "**Aliados Temporales**: Si pudieras traer a una figura histórica para que sea parte de tu equipo o consejo directivo, ¿quién sería y por qué?"
+    ]
+  },
+  "module10": {
+    "option1": [
+      "**Dimensiones Alternas**: Si tu empresa operara en un universo paralelo donde todo es opuesto, ¿qué tipo de productos o servicios ofrecería?",
+      "**Superpoderes Empresariales**: Si tu empresa pudiera tener un superpoder (ejemplo:rapidez extrema en la producción, telepatía con los clientes), ¿cuál sería?",
+      "**Mascota Corporativa**: Si tu empresa tuviera una mascota que reflejara su espíritu y valores, ¿qué animal sería y qué habilidad especial tendría?",
+      "**Desafíos Ficticios**: Imagina que un villano de cómic amenaza tu industria. ¿Quién sería y cómo tu empresa lo combatiría?",
+      "**Alianzas Mágicas**: Si pudieras formar una alianza con un personaje de ficción (puede ser de literatura, películas, series), ¿quién sería y cómo olaborarían juntos?"
+    ],
+    "option2": [
+      "**Dimensiones Alternas**: Si tu empresa operara en un universo paralelo donde todo es opuesto, ¿qué tipo de productos o servicios ofrecería?",
+      "**Superpoderes Empresariales**: Si tu empresa pudiera tener un superpoder (ejemplo:rapidez extrema en la producción, telepatía con los clientes), ¿cuál sería?",
+      "**Mascota Corporativa**: Si tu empresa tuviera una mascota que reflejara su espíritu y valores, ¿qué animal sería y qué habilidad especial tendría?",
+      "**Desafíos Ficticios**: Imagina que un villano de cómic amenaza tu industria. ¿Quién sería y cómo tu empresa lo combatiría?",
+      "**Alianzas Mágicas**: Si pudieras formar una alianza con un personaje de ficción (puede ser de literatura, películas, series), ¿quién sería y cómo olaborarían juntos?"
+    ]
+  },
+  "module11": {
+    "option1": [
+      "Si pudieras incorporar a un familiar en tu emprendimiento, ¿quién sería y en qué posición?",
+      "¿Darías acciones de tu empresa a tus empleados? Si es así, ¿por qué consideras que es una buena idea?",
+      "Si respondiste 'sí' a la anterior pregunta, ¿hasta qué porcentaje estarías dispuesto a ofrecerles en total?",
+      "Si un empleado destacado quisiera más acciones que el porcentaje que has determinado, ¿bajo qué circunstancias considerarías ceder más?",
+      "En el espíritu de la inclusión familiar, en pocas palabras ¿cómo te asegurarías de que todos los empleados, independientemente de su tiempo o puesto en la empresa, se sintieran como parte de esta 'familia empresarial'?"
+    ],
+    "option2": [
+      "Si pudieras incorporar a un familiar en tu emprendimiento, ¿quién sería y en qué posición?",
+      "¿Darías acciones de tu empresa a tus empleados? Si es así, ¿por qué consideras que es una buena idea?",
+      "Si respondiste 'sí' a la anterior pregunta, ¿hasta qué porcentaje estarías dispuesto a ofrecerles en total?",
+      "Si un empleado destacado quisiera más acciones que el porcentaje que has determinado, ¿bajo qué circunstancias considerarías ceder más?",
+      "En el espíritu de la inclusión familiar, en pocas palabras ¿cómo te asegurarías de que todos los empleados, independientemente de su tiempo o puesto en la empresa, se sintieran como parte de esta 'familia empresarial'?"
+    ]
+  },
+  "module12": {
+    "option1": [
+      "¿Qué cualidades consideras esenciales en un socio ideal para tu emprendimiento?",
+      "Si tuvieras que elegir a un socio basándote solamente en una habilidad o experiencia específica, ¿cuál sería esa habilidad o experiencia?",
+      "¿Prefieres un socio que complemente tus habilidades o uno que tenga habilidades similares a las tuyas?",
+      "¿Cómo manejarías un desacuerdo significativo con un socio en cuanto a la dirección del negocio?",
+      "¿Estás dispuesto a ceder el control mayoritario de tu emprendimiento si eso significa acelerar su crecimiento con la ayuda de un socio?"
+    ],
+    "option2": [
+      "¿Qué cualidades consideras esenciales en un socio ideal para tu emprendimiento?",
+      "Si tuvieras que elegir a un socio basándote solamente en una habilidad o experiencia específica, ¿cuál sería esa habilidad o experiencia?",
+      "¿Prefieres un socio que complemente tus habilidades o uno que tenga habilidades similares a las tuyas?",
+      "¿Cómo manejarías un desacuerdo significativo con un socio en cuanto a la dirección del negocio?",
+      "¿Estás dispuesto a ceder el control mayoritario de tu emprendimiento si eso significa acelerar su crecimiento con la ayuda de un socio?"
+    ]
+  },
+  "module13": {
+    "option1": [
+      "¿Qué haces para mantener un estilo de vida saludable mientras administras con tu trabajo?",
+      "¿Que otra manera manejas el estrés y la presión asociados con ser emprendedor o trabajador?",
+      "¿Cómo te aseguras de tener tiempo libre para ti mismo y tus seres queridos?",
+      "¿Cómo estableces límites entre tu vida personal y tu vida laboral?",
+      "¿Practicas alguna forma de desconexión digital para equilibrar tu vida?",
+      "Aparte de tus metas empresariales, ¿cuáles son tus objetivos personales a corto y largo plazo?"
+    ],
+    "option2": [
+      "¿Qué haces para mantener un estilo de vida saludable mientras administras con tu trabajo?",
+      "¿Que otra manera manejas el estrés y la presión asociados con ser emprendedor o trabajador?",
+      "¿Cómo te aseguras de tener tiempo libre para ti mismo y tus seres queridos?",
+      "¿Cómo estableces límites entre tu vida personal y tu vida laboral?",
+      "¿Practicas alguna forma de desconexión digital para equilibrar tu vida?",
+      "Aparte de tus metas empresariales, ¿cuáles son tus objetivos personales a corto y largo plazo?"
+    ]
+  },
+  "module14": {
+    "option1": [
+      "Del 1 al 10, ¿qué nivel de compromiso tienes para dedicar 1 hora al día durante los próximos 90 días?",
+      "Quiero que tomes un papel físico y escribas de manera creativa dónde te ves a ti mismo o a tu empresa en 12 meses. Una vez que lo hayas completado, escribe 'hecho' en la casilla de abajo. Se te pedirá esto al finalizar la formación."
+    ],
+    "option2": [
+      "Del 1 al 10, ¿qué nivel de compromiso tienes para dedicar 1 hora al día durante los próximos 90 días?",
+      "Quiero que tomes un papel físico y escribas de manera creativa dónde te ves a ti mismo o a tu empresa en 12 meses. Una vez que lo hayas completado, escribe 'hecho' en la casilla de abajo. Se te pedirá esto al finalizar la formación."
+    ]
+  }
+}

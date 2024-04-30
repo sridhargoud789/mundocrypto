@@ -1,0 +1,1960 @@
+//
+// user.scss
+// Use this to write your custom SCSS
+//
+@import url("https://fonts.cdnfonts.com/css/dm-serif-display");
+a {
+  font-family: "Montserrat" !important;
+}
+button {
+  font-family: "Montserrat" !important;
+}
+body {
+  background-color: #ffffff !important;
+  overflow-x: hidden;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.muiLoader {
+  z-index: 9999 !important;
+  color: #fff !important;
+}
+.bg-black {
+  background-color: #000000 !important;
+}
+.btn_blue {
+  background-color: #0077ca !important;
+  color: white !important;
+}
+
+.btn_homeBanner {
+  background-color: #00629b !important;
+  color: white !important;
+  border-radius: 4px !important;
+  border-color: transparent !important;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+}
+.navbar-text {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 16px;
+
+  /* Grays/800 */
+
+  color: #343a40;
+}
+.danger {
+  color: red;
+}
+
+.divSecuredConnection {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #6c757d;
+}
+.paymentMethods_Card {
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+}
+
+.paymentMethods_txt {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  color: #000000;
+}
+
+.splitPayment_txt {
+  font-weight: 500;
+  font-size: 16px;
+
+  color: #000000;
+}
+
+.paymentMethods_lbl {
+  width: 100%;
+  margin-top: -2% !important;
+}
+.ckb_Payments {
+  padding: 1rem !important;
+}
+
+.cardReward {
+  background: linear-gradient(90deg, #fabe2c -0.93%, #fed843 100%), #f1f0f0;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+.cardRewardPoints {
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 28px;
+  /* identical to box height, or 156% */
+
+  color: #ffffff;
+}
+.cardRewardPointsTitle {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #141414;
+}
+.noBorderCard {
+  border: unset !important;
+  box-shadow: unset !important;
+}
+.mctBadge {
+  background-color: unset !important;
+  color: black;
+}
+.cardRewardPointssubheader {
+  font-weight: 600;
+  font-size: 10px;
+
+  color: #141414;
+}
+
+.btnCustomOutline {
+  font-weight: bold !important;
+  font-size: 14px !important;
+  --bs-btn-color: unset;
+  --bs-btn-border-color: black !important;
+  --bs-btn-hover-color: #212529 !important;
+  --bs-btn-hover-bg: #fff !important;
+  --bs-btn-hover-border-color: #212529;
+  --bs-btn-focus-shadow-rgb: 33, 37, 41;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #212529;
+  --bs-btn-active-border-color: #212529;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #212529;
+  --bs-btn-disabled-bg: transparent;
+  --bs-btn-disabled-border-color: #212529;
+  --bs-gradient: none;
+}
+
+.livesearch > .dropdown-menu {
+  visibility: visible !important;
+  opacity: unset !important;
+  margin: 0 !important;
+  width: unset !important;
+}
+
+.divHeart {
+  float: right;
+}
+
+.list-group-item.active {
+  background-color: #f2efff;
+  border-color: unset;
+}
+.list-group-item.active > a > div > span.fs-5 {
+  color: #0077ca !important;
+}
+
+@media (min-width: 1025px) {
+  .formtxtSearch {
+    min-width: 16rem !important;
+  }
+}
+.mctPriceSpan {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 17px;
+  /* identical to box height */
+
+  /* Grays/800 */
+
+  color: #343a40;
+}
+
+.divHomeHeader {
+  //height: 400px; /* You must set a specified height */
+  background-color: rgb(245, 244, 248);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.divPackage {
+}
+
+.courseDetailHeader {
+  background-color: #1c1d1f !important;
+}
+// @media (min-width: 992px) {
+//   .courseDetailHeader {
+//     background-image: url("/images_optimized/background_coursedetail_mobile.jpg");
+//     //height: 400px; /* You must set a specified height */
+//     background-position: center; /* Center the image */
+//     background-repeat: no-repeat; /* Do not repeat the image */
+//     background-size: cover; /* Resize the background image to cover the entire container */
+//   }
+// }
+
+// @media (max-width: 480px) {
+//   .courseDetailHeader {
+//     background-image: url("/images_optimized/background_coursedetail_desktop.jpg");
+//     //height: 400px; /* You must set a specified height */
+//     background-position: center; /* Center the image */
+//     background-repeat: no-repeat; /* Do not repeat the image */
+//     background-size: cover; /* Resize the background image to cover the entire container */
+//   }
+// }
+
+@media (min-width: 992px) {
+  .xmasPackImg {
+    background-image: url("/images_optimized/1101_pack_desktop.jpg");
+    height: 350px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    width: 100%;
+    cursor: pointer;
+  }
+}
+
+@media (max-width: 480px) {
+  .xmasPackImg {
+    background-image: url("/images_optimized/1101_pack_mobile.jpg");
+    height: 615px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    width: 100%;
+    cursor: pointer;
+  }
+}
+@media (min-width: 992px) {
+  .AICourseBg {
+    background-image: url("/images_optimized/aicoursebanner.png");
+    height: 350px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    width: 100%;
+    cursor: pointer;
+  }
+}
+
+@media (max-width: 480px) {
+  .AICourseBg {
+    background-image: url("/images_optimized/aicoursebanner_mobile.png");
+    height: 600px;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    width: 100%;
+    cursor: pointer;
+  }
+}
+
+@media (min-width: 992px) {
+  .AICourseBg_en {
+    background-image: url("/images_optimized/en/aicoursebanner.jpg");
+    height: 350px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    width: 100%;
+    cursor: pointer;
+  }
+}
+
+@media (max-width: 480px) {
+  .AICourseBg_en {
+    background-image: url("/images_optimized/en/aicoursebanner_mobile.jpg");
+    height: 600px;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    width: 100%;
+    cursor: pointer;
+  }
+}
+
+.btnViewPackage {
+  border: solid;
+  border-color: #c40000;
+  color: #c40000;
+  border-radius: 10rem;
+}
+.divInstructorBanner {
+  background-image: url("/images_optimized/fondo_felipe.png");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.instructorBG {
+  background-image: url("/images_optimized/instructor_header_bg.png");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.instructor_onlineteacher {
+  background-image: url("/images_optimized/online_teacher_bg.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hrDivider {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.cardinstructor_onlineteacher {
+  background-color: #d4edfd;
+  border-radius: 10px 10px 10px 10px;
+  border-style: dashed;
+  border-width: 1px 1px 1px 1px;
+  border-color: #1d93c9;
+  transition: border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.businessHeaderBG {
+  background-image: url("/images_optimized/b2b_new.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.businessHeader_form {
+  background-image: url("/images_optimized/b2b_new.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.mobileFooter {
+  background-color: #fff;
+  box-shadow: 0 -2px 4px rgb(0 0 0 / 8%), 0 -4px 12px rgb(0 0 0 / 8%);
+  overflow-y: hidden;
+  padding: 0.8rem 1.6rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 2;
+  transform: translateY(0);
+  transition: transform 250ms cubic-bezier(0, 0, 0.38, 0.9);
+}
+
+.mm_title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+}
+
+.mm_subtitle {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #6c757d;
+}
+
+.divDoubts {
+  background-color: #f8f9fa;
+
+  background-image: url("/images_optimized/featuredlist/Bg-01.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.metaverse_main {
+  width: 100%;
+}
+
+.metaverse_video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.metaverse_overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+/* background-color: #000000cc; */
+@media (min-width: 992px) {
+  .divJobs {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+}
+
+@media (max-width: 480px) {
+  .divJobs {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 992px) {
+  .iconsInstructors {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .iconsInstructors {
+    display: block;
+    margin-bottom: 10px;
+  }
+}
+
+.examResultPassed {
+  background-color: #d1f5ea;
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  border: solid;
+  border-width: 4px;
+  border-color: #20c877;
+}
+
+.examResultFailed {
+  background-color: #fad9d8;
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  border: solid;
+  border-width: 4px;
+  border-color: #e53f3c;
+}
+
+.examDataContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: solid;
+  border-width: 2px;
+  border-radius: 8px;
+  border-color: #00000015;
+  padding: 30px 40px;
+  margin: 0 10px;
+}
+
+.examReqContainer {
+  background-color: #fff1e1;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.examInstrContainer {
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.outlinedContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 10px;
+  border: solid;
+  border-width: 1px;
+  border-color: #0077ca;
+  border-radius: 25px;
+
+  .outlinedContainerText {
+    color: #0077ca;
+  }
+}
+
+.outlinedContainer:hover {
+  background-color: #0077ca;
+
+  .outlinedContainerText {
+    color: #ffffff;
+  }
+}
+
+@media (min-width: 992px) {
+  .examIntroSize {
+    width: 80%;
+  }
+}
+
+@media (max-width: 480px) {
+  .examIntroSize {
+    width: 100%;
+  }
+}
+.fabRewards {
+  background-color: white !important;
+  color: black !important;
+}
+video::-internal-media-controls-download-button {
+  display: none;
+}
+
+video::-webkit-media-controls-enclosure {
+  overflow: hidden;
+}
+
+video::-webkit-media-controls-panel {
+  width: calc(100% + 30px); /* Adjust as needed */
+}
+.lgLectureDetail {
+  cursor: pointer;
+}
+
+.Rewards_claimPoints_txt {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  color: #6c757d;
+}
+.Rewards_claimPoints_hdr {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+  color: #18113c;
+}
+.form-check-label {
+  width: 100%;
+}
+.form-check,
+.form-check-label {
+  cursor: pointer;
+}
+.navHomePromo {
+  background-image: url("/images_optimized/promo_header1.png");
+  //height: 400px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.navAICoursePromo {
+  background-image: url("/images_optimized/promo_header2.png");
+  //height: 400px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.navTxtHomePromo {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 28px;
+  /* identical to box height, or 140% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.btnHomeClose {
+  margin-top: -12%;
+  position: absolute;
+  margin-left: 87%;
+}
+
+.navTxtAIPromo {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 28px;
+  /* identical to box height, or 140% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.btnAIClose {
+  margin-top: -5%;
+  position: absolute;
+  margin-left: 86%;
+}
+.intl-tel-input {
+  width: 100% !important;
+}
+
+.MuiChip-labelSmall {
+  font-size: 12px;
+  font-weight: normal;
+}
+.blink {
+  animation: blinker 0.75s linear infinite;
+  color: red;
+  font-family: sans-serif;
+}
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+.heroHdrTitle {
+  position: absolute;
+  width: 717px;
+  height: 159px;
+  left: 134px;
+  top: 290px;
+
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 125%;
+  /* or 75px */
+
+  color: #000000;
+}
+.bannerImage {
+  background-image: url("/images_optimized/bannerimage.png");
+  //height: 400px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  background: #d9d9d9;
+}
+.bannerCounts_title {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 125%;
+  /* identical to box height, or 44px */
+
+  color: #000000;
+}
+.bannerCounts_sub_title {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  /* or 30px */
+
+  /* Color/Text color */
+
+  color: #1c1d1f;
+}
+
+.banner_image {
+  border-radius: 256.5px 256.5px 0px 0px !important;
+}
+
+.vertical_line {
+  position: absolute;
+  width: 186px;
+  height: 0px;
+  left: 1786px;
+  top: 427px;
+
+  background: #d9d9d9;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  transform: rotate(180deg);
+}
+
+.btn-dark-blue {
+  background-color: #00629b !important;
+  color: white !important;
+}
+
+.react-tooltip {
+  z-index: 99999 !important;
+}
+.MuiTooltip-tooltip {
+  background-color: white !important;
+}
+
+.carousel-indicators {
+  position: absolute;
+  margin-right: 72%;
+  z-index: 9999 !important;
+}
+
+.carousel-indicators > .active {
+  color: #45b2cb;
+  opacity: unset;
+}
+
+.carousel-indicators > button {
+  opacity: 0.3;
+}
+
+.slickarrows {
+  background-color: rgba(255, 255, 255, 1) !important;
+}
+
+.h1homebanner {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 47px;
+  /* or 75px */
+
+  color: #000000;
+}
+
+.phomebanner {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+}
+
+.flTitle {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+
+  /* or 31px */
+
+  text-align: center;
+
+  color: #000000;
+}
+.fldescription {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+
+  /* or 30px */
+
+  text-align: center;
+
+  /* Color/Text color */
+
+  color: #1c1d1f;
+}
+
+.divvr {
+  position: absolute;
+  width: 273px;
+  height: 0px;
+  background: #d9d9d9;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  transform: rotate(90deg);
+}
+
+.vr {
+  background: #d9d9d9 !important;
+}
+
+.vrdark {
+  width: 0px;
+  height: 111px;
+  left: 982px;
+  top: 3577px;
+
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+.h1titles {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 125%;
+  /* or 56px */
+
+  text-align: center;
+
+  color: #000000;
+}
+
+.tabTitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 27px;
+  /* identical to box height */
+
+  /* Gray 2 */
+
+  color: #4f4f4f;
+}
+.h1CourseTitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+
+  color: #000000;
+}
+
+.cbCourseCard {
+  padding: 1rem !important;
+}
+
+.spancoursemctPrice {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+
+  color: #1c1d1f;
+}
+.spancoursePrice {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  /* or 24px */
+
+  color: #4f4f4f;
+}
+.homeregisterNowTitle {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32 px;
+  line-height: 125%;
+  /* or 56px */
+
+  color: #ffffff;
+}
+.homeregisterNowLink {
+  color: #fff;
+  font-family: "Montserrat";
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration-line: underline;
+}
+.l2eTitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 30px;
+
+  color: #000000;
+}
+.l2eTitle_mobile {
+  color: #000;
+  text-align: center;
+  font-family: DM Serif Display;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 125%;
+}
+.supportTitle {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 38px;
+  line-height: 125%;
+  /* or 56px */
+
+  /* Color/Text color */
+
+  color: #1c1d1f;
+}
+
+.supportText {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 150%;
+  /* or 33px */
+
+  /* Color/Text color */
+
+  color: #1c1d1f;
+}
+
+.instructorHOYTitle {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 125%;
+  /* or 56px */
+
+  color: #000000;
+}
+
+.instructorHOYText {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 150%;
+  /* or 33px */
+
+  /* Color/Text color */
+
+  color: #1c1d1f;
+}
+
+.h1SubTitles {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 150%;
+  /* or 33px */
+
+  text-align: center;
+
+  /* Color/Text color */
+
+  color: #1c1d1f;
+}
+.slick-arrow {
+  background: #00629b !important;
+  color: #ffffff;
+}
+
+.testimonialTitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  /* or 30px */
+
+  text-align: center;
+
+  /* Color/Text color */
+
+  color: #1c1d1f;
+}
+.testimonialRating {
+  font-size: 3rem;
+}
+.testmonialByTitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 22px;
+  /* or 88% */
+
+  /* Color/Text color */
+
+  color: #1c1d1f;
+}
+.testmonialByDesignation {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 18px;
+  /* or 100% */
+
+  text-align: center;
+
+  /* Color/Text color */
+
+  color: #1c1d1f;
+}
+
+.b2bTitle {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 125%;
+  /* or 56px */
+
+  color: #000000;
+}
+
+.b2bText {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 150%;
+  /* or 33px */
+
+  /* Color/Text color */
+
+  color: #1c1d1f;
+}
+
+@media (min-width: 1200px) {
+  .container-xl,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container {
+    max-width: 1275px;
+  }
+  .courserightdetails {
+    margin-top: -25.6rem !important;
+  }
+}
+@media (min-width: 992px) {
+  .courserightdetails {
+    margin-top: -25.6rem !important;
+  }
+}
+.breadcrumbtext {
+  font-family: "Montserrat" !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 14px !important;
+  line-height: 25px !important;
+  /* or 100% */
+
+  /* Color/White */
+
+  color: #ffffff !important;
+  a {
+    color: #ffffff !important;
+  }
+}
+
+.breadcrumbtext_b2b {
+  color: var(--color-text-color, #1c1d1f);
+  font-size: 25px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  a {
+    color: var(--color-text-color, #1c1d1f) !important;
+  }
+}
+
+.cd_title {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 125%;
+  /* or 56px */
+
+  /* Color/White */
+
+  color: #ffffff;
+}
+.cd-subtitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 150%;
+  /* or 30px */
+
+  /* Color/White */
+
+  color: #ffffff;
+}
+.cd-attributes {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 150%;
+  /* or 24px */
+
+  /* Color/White */
+
+  color: #ffffff;
+}
+hr {
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+.accordian_header {
+  background: #f8f8f8;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.accordian_header_text {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 27px;
+
+  color: #000000;
+}
+.cd-detailsContentTitle {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 100%;
+  /* or 44px */
+
+  color: #000000;
+}
+.cd-btnexpandall {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+
+  /* or 30px */
+
+  /* Color/Ocean Blue */
+
+  color: #00629b;
+}
+.cd-detailstitles {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+
+  /* or 44px */
+
+  color: #000000;
+}
+.cd-detailsHR {
+  opacity: 0.5;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+}
+
+.cc-coursetitle {
+  font-family: "Montserrat" !important;
+  font-style: normal !important;
+  font-weight: 600;
+  font-size: 13px;
+
+  /* or 120% */
+
+  color: #000000;
+}
+.cc-author {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  /* or 30px */
+
+  /* Color/Ocean Blue */
+
+  color: #00629b;
+}
+
+.cc-btnbestseller {
+  background: #00aeef;
+  padding: 4px !important;
+  font-size: 12px;
+}
+.cc-price {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  color: #1c1d1f;
+}
+.cd-instructorbpx {
+  background: #f8f8f8;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  height: 14rem;
+  width: 12rem;
+}
+
+.cd-instructorbpx_mobile {
+  background: #f8f8f8;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  height: 20rem;
+  width: 20rem;
+}
+.cd-instrucTitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+
+  text-align: center;
+
+  color: #000000;
+}
+
+.cd-instrucSubTitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+
+  /* or 27px */
+
+  text-align: center;
+
+  /* Gray 3 */
+
+  color: #828282;
+}
+.cd-evaluationTitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+
+  color: #000000;
+}
+.cd-evaluationdesc {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  /* or 30px */
+
+  text-align: center;
+
+  /* Color/Text color */
+
+  color: #1c1d1f;
+}
+.cd-estudentatitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+
+  color: #000000;
+}
+.cd-estudentadesc {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  /* or 33px */
+
+  /* Color/Text color */
+
+  color: #1c1d1f;
+}
+.cd-astudentCard {
+  border: unset;
+  background: #f8f8f8;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.cd-hiring {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+
+  color: #000000;
+}
+.cd-resuelveTitle {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+
+  text-align: center;
+
+  color: #000000;
+}
+
+.cd-resuelveSubTitle {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+
+  /* or 31px */
+
+  color: #000000;
+}
+
+.cd-ventajasSubTitle {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+
+  /* or 31px */
+
+  color: #000000;
+}
+
+.cd-pricedetails {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+
+  /* or 54px */
+
+  /* Color/Text color */
+
+  color: #1c1d1f;
+}
+.cd-includesTitle {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+
+  color: #000000;
+}
+.cd-sharelinks {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+
+  /* or 125% */
+
+  text-decoration-line: underline;
+
+  /* Color/Ocean Blue */
+
+  color: #00629b;
+}
+
+.cd-authorTitle {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+
+  color: #000000;
+}
+
+.cd-authorSubTitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  /* or 27px */
+
+  /* Color/Text color */
+
+  color: #1c1d1f;
+}
+.cd-authorCounts {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  /* or 125% */
+
+  /* Color/Ocean Blue */
+
+  color: #00629b;
+}
+
+.cd-authorDesc {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  /* or 27px */
+
+  /* Color/Text color */
+
+  color: #1c1d1f;
+}
+.bg-black {
+  background: #1c1d1f !important;
+}
+
+.pageHeadingTitle {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  color: #ffffff;
+}
+
+.checkout-Title {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+
+  /* or 44px */
+
+  /* Color/Text color */
+
+  color: #1c1d1f;
+}
+
+.checkout-fm-label {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+
+  color: #000000;
+}
+.checkout-totalprice {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+
+  color: #000000;
+}
+
+.checkout-Summary {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  color: #1c1d1f;
+}
+
+.checkout-hr {
+  opacity: 0.05;
+  /* Color/Text color */
+
+  border: 1px solid #1c1d1f;
+}
+.courseresumeHeader {
+  background: #1c1d1f !important;
+  color: white !important;
+}
+
+.cr-navtitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+
+  /* Color/White */
+
+  color: #ffffff !important;
+}
+
+.cr-navtitle_mobile {
+  color: #ffffff !important;
+  text-align: center;
+  font-family: "Montserrat";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.cr-navprogressddl {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  /* Gray 4 */
+
+  color: #bdbdbd;
+}
+
+.cr-navprogresscircle {
+  border: 1px solid rgba(124, 124, 124, 1);
+}
+
+.bg-lightblue {
+  background-color: rgb(242, 249, 255) !important;
+}
+.bg-lighgreen {
+  background-color: #90ee90 !important;
+}
+
+.cr-accTitle {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  background-color: rgb(242, 249, 255) !important;
+
+  color: #000000;
+}
+.cr-ModuleTitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  color: #000000;
+}
+
+.cr-lectureTitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  /* or 30px */
+
+  text-decoration-line: underline;
+
+  /* Color/Text color */
+
+  color: #1c1d1f;
+}
+
+.sc-courseTitle {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 23px;
+  color: #000000;
+}
+
+.qa-formlabel {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+
+  color: #000000;
+}
+
+.qa-allanswersTitle {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+
+.qa-allquestionTitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+  cursor: pointer;
+}
+.qa-postedBy {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  /* Color/Ocean Blue */
+
+  color: #00629b;
+}
+.qa-postedOn {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #4f4f4f;
+}
+
+.announcementsTitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+
+  color: #000000;
+}
+.lt-SubTitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  color: #000000;
+}
+
+.reviewMainTitle {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.reviewSubTitle {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+
+.ml-tabheadercard {
+  border: unset !important;
+  box-shadow: unset !important;
+  background-color: grey !important;
+}
+
+.ml-inactivetabheader {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  color: #1c1d1f;
+}
+
+.mylearningTabs > div > a.active {
+  /* Color/Text color */
+
+  background: #1c1d1f !important;
+  font-family: "Montserrat" !important;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+
+  /* Color/White */
+
+  color: #ffffff !important;
+  border-bottom: grey solid !important;
+}
+.mylearningTabs > div > a {
+  font-family: "Montserrat" !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 20px;
+  color: #1c1d1f !important;
+  border-bottom: unset !important;
+}
+
+.cr-navtitle > a {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px !important;
+  border: unset !important;
+  color: #828282;
+}
+.cr-navtitle > a.active {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 20px !important;
+  border: unset !important;
+  border-bottom: grey solid !important;
+  color: #000000 !important;
+}
+
+.cr-navtitle_mobile > a.active {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 14px !important;
+  border: unset !important;
+  border-bottom: grey solid !important;
+  color: #000000 !important;
+}
+.cc-attrTitle {
+  color: var(--color-ocean-blue, #00629b);
+  font-size: 16px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+}
+
+.cc-pricedetailTotal {
+  color: var(--color-text-color, #1c1d1f);
+  font-size: 20px;
+  font-family: DM Serif Display;
+  font-style: normal;
+  font-weight: 600;
+}
+.cc-pricedetailsCard {
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: #fff;
+}
+
+.cc-pricedetailsPrice {
+  color: var(--color-text-color, #1c1d1f);
+  font-size: 30px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+}
+
+.cart-courseTitle {
+  color: #000;
+  font-size: 20px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+}
+
+.qa-btnaskquestion {
+  color: var(--color-ocean-blue, #00629b);
+  font-size: 14px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration-line: underline;
+}
+.b2b-header {
+  color: var(--color-text-color, #1c1d1f);
+  font-size: 35px;
+  font-family: DM Serif Display;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.b2b-headerdesc {
+  color: var(--color-text-color, #1c1d1f);
+  text-align: justify;
+  font-size: 16px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 400;
+}
+.b2binfoHeader {
+  color: var(--color-text-color, #1c1d1f);
+  font-size: 20px;
+  font-family: DM Serif Display;
+  font-style: normal;
+  font-weight: 600;
+}
+.b2binfoHeader-points {
+  color: var(--color-text-color, #1c1d1f);
+  text-align: justify;
+  font-size: 16px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 400;
+}
+.b2bVideoBG {
+  background-image: url("/images_optimized/b2bvideo.png");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.h1homebanner_mobile {
+  color: #000;
+  text-align: center;
+  font-family: DM Serif Display;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 600;
+}
+.phomebanner-mobile {
+  color: var(--color-text-color, #1c1d1f);
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.bannerCounts_title_mobile {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.bannerCounts_sub_title_mobile {
+  color: var(--color-text-color, #1c1d1f);
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.bannerCounts_column {
+  border-right: #d9d9d9 solid;
+}
+
+.level1 {
+  background-color: rgba(2, 192, 118, 0.2) !important;
+  color: rgb(71, 77, 87) !important;
+}
+
+.level2 {
+  background-color: rgba(240, 185, 11, 0.2) !important;
+  color: rgb(71, 77, 87) !important;
+}
+
+.level3 {
+  background-color: rgba(217, 48, 78, 0.2) !important;
+  color: rgb(71, 77, 87) !important;
+}
+
+.articleCard:hover {
+  box-shadow: 1px 8px 20px grey;
+  -webkit-transition: box-shadow 0.6s ease-in;
+}
+.articleCard {
+  background: white;
+  box-shadow: 0px 0px 0px grey;
+  -webkit-transition: box-shadow 0.6s ease-out;
+  box-shadow: 0.8px 0.9px 3px grey;
+}
+
+.article-details-title {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  /* or 75px */
+
+  color: #000000;
+}
+
+.article-modules-title {
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  /* or 75px */
+
+  color: #000000;
+}
+.article-details-main {
+  -ms-overflow-style: none; /* for Internet Explorer, Edge */
+  scrollbar-width: none; /* for Firefox */
+  overflow-y: scroll;
+}
+
+.article-details-main::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, and Opera */
+}
+
+#navbar-example > .nav-item > a.active {
+  text-decoration: underline !important ;
+}
+.articles-fr-link {
+  font-family: "DM Serif Display";
+  box-sizing: border-box;
+  margin: 0px;
+  min-width: 0px;
+  color: rgb(201, 148, 0);
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.bn-item-tail {
+  position: absolute;
+  height: 97%;
+  padding-top: 15px;
+  box-sizing: content-box;
+}
+
+.bn-item-tail::after {
+  width: 4px;
+  height: 50%;
+  background-color: rgb(234, 236, 239);
+  margin-left: 12px;
+  display: inline-block;
+  border-radius: 1px;
+  content: "";
+}
+.bn-item-icon-container {
+  float: left;
+  width: 28px;
+  margin-right: 12px;
+  text-align: center;
+}
+.css-vurnku {
+  box-sizing: border-box;
+  margin: 0px;
+  min-width: 0px;
+}
+.css-1ptkdsm {
+  margin: 0px;
+  min-width: 0px;
+  display: inline-block;
+  box-sizing: content-box;
+  width: 6px;
+  height: 6px;
+  border: 2px solid rgb(30, 35, 41);
+  border-radius: 2px;
+  transform: rotate(45deg);
+}
+.css-2ptkdsm {
+  margin: 0px;
+  min-width: 0px;
+  display: inline-block;
+  box-sizing: content-box;
+  width: 6px;
+  height: 6px;
+  border: 2px solid rgb(30, 35, 41);
+  border-radius: 2px;
+  transform: rotate(45deg);
+}
+.bn-item-content {
+  cursor: pointer;
+  overflow: hidden;
+}
+.css-vurnku {
+  box-sizing: border-box;
+  margin: 0px;
+  min-width: 0px;
+}
+
+.article-right-col {
+  /* box-sizing: border-box; */
+  /* margin: 0px; */
+  /* min-width: 0px; */
+  position: sticky;
+  top: 56px;
+  /* padding: 24px 16px; */
+  /* width: 100%; */
+  align-self: flex-start;
+  position: sticky;
+}
+.articeFont {
+  font-size: 25px !important;
+  font-family: sans-serif !important;
+  // font-family: "DM Serif Display" !important;
+}
+
+.articleTimelineTitle {
+  font-size: 20px;
+
+  color: black;
+}
+
+.nav-link.active > .css-vurnku {
+  font-weight: bold;
+}
+
+.modalMandate > #swal2-html-container {
+  font-weight: 600;
+}
+.modalMandate > .swal2-radio {
+  display: inherit !important;
+}
+
+.ql-container {
+  min-height: 20rem;
+  height: 100%;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.ql-editor {
+  height: 100%;
+  flex: 1;
+  overflow-y: auto;
+  width: 100%;
+}
+.card {
+  //--bs-card-bg: unset !important;
+}
+
+.noTableBG {
+  --bs-table-bg: white !important;
+}
+
+.video-controls {
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  cursor: pointer;
+  bottom: 43px;
+  right: 180px;
+}
